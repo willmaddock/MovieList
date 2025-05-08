@@ -1,3 +1,4 @@
+// William Maddock
 package com.example.movielist
 
 import android.app.Activity
