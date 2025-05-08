@@ -1,0 +1,40 @@
+# === Android Studio ===
+*.iml
+.gradle/
+local.properties
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# === Build output ===
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and temp ===
+*.log
+*.lock
+
+# === APKs / Artifacts ===
+*.apk
+*.ap_
+*.aab
+
+# === Kotlin/Java classes ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Jetpack Compose ===
+.compose-cache/
